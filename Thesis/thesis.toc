@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {} Acknowledgments}{i}
+\contentsline {chapter}{\numberline {} Abstract}{iii}
+\contentsline {chapter}{\numberline {} Contents}{v}
+\contentsline {chapter}{\numberline {1}Movement and Search}{1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {section}{\numberline {1.2}Biological encounters as a reaction-diffusion process}{2}
+\contentsline {chapter}{\numberline {2}Random Walks}{4}
+\contentsline {section}{\numberline {2.1}Central Limit Theorems}{4}
+\contentsline {section}{\numberline {2.2}Normal diffusion and Brownian motion}{5}
+\contentsline {section}{\numberline {2.3}Anomalous diffusion}{6}
+\contentsline {subsection}{\numberline {2.3.1}Anomalous diffusion with H = 1/2}{7}
+\contentsline {subsection}{\numberline {2.3.2}Generalized Hurst exponents}{7}
+\contentsline {subsection}{\numberline {2.3.3}Mathematical formalism for anomalous diffusion}{8}
+\contentsline {chapter}{\numberline {3}L\'evy Flights and L\'evy Walks}{9}
+\contentsline {section}{\numberline {3.1}Hurst exponents for L\'evy flights and walks}{9}
+\contentsline {section}{\numberline {3.2}L\'evy flight foraging hypothesis}{10}
+\contentsline {section}{\numberline {3.3}Evidence for L\'evy foraging behavior}{11}
+\contentsline {chapter}{\numberline {4}Experiments with the Phototactic Robot}{13}
+\contentsline {section}{\numberline {4.1}Phototaxis}{13}
+\contentsline {section}{\numberline {4.2}The setup}{13}
+\contentsline {section}{\numberline {4.3}Experiments}{16}
+\contentsline {subsection}{\numberline {4.3.1}Constant $\Delta t$}{16}
+\contentsline {subsection}{\numberline {4.3.2}Power-law distributed $\Delta t$ }{16}
+\contentsline {chapter}{\numberline {5}Conclusion and Scope}{18}
+\contentsline {chapter}{\numberline {} References}{19}

@@ -1,0 +1,266 @@
+\begin{thebibliography}{10}
+
+\bibitem{chemkin}
+C.~Loverdo, O.~B{\'e}nichou, M.~Moreau, and R.~Voituriez.
+\newblock Enhanced reaction kinetics in biological cells.
+\newblock {\em Nature Physics}, 4:134 EP --, Jan 2008.
+
+\bibitem{bindsite}
+G.~Oshanin, M.~Tamm, and O.~Vasilyev.
+\newblock Narrow-escape times for diffusion in microdomains with a
+  particle-surface affinity: Mean-field results.
+\newblock {\em The Journal of Chemical Physics}, 132(23):235101, 2010.
+
+\bibitem{DNA}
+Otto~G. Berg, Robert~B. Winter, and Peter~H. Von~Hippel.
+\newblock Diffusion-driven mechanisms of protein translocation on nucleic
+  acids. 1. models and theory.
+\newblock {\em Biochemistry}, 20(24):6929--6948, 1981.
+\newblock PMID: 7317363.
+
+\bibitem{evade}
+G.~Oshanin, O.~Vasilyev, P.~L. Krapivsky, and J.~Klafter.
+\newblock Survival of an evasive prey.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(33):13696--13701, 2009.
+
+\bibitem{groupchase}
+Atsushi Kamimura and Toru Ohira.
+\newblock Group chase and escape.
+\newblock {\em New Journal of Physics}, 12(5):053013, 2010.
+
+\bibitem{visualsearch}
+Todd~S. Horowitz and Jeremy~M. Wolfe.
+\newblock Visual search has no memory.
+\newblock {\em Nature}, 394:575 EP --, Aug 1998.
+
+\bibitem{overcrowding}
+Stephanie~C. Weber, Andrew~J. Spakowitz, and Julie~A. Theriot.
+\newblock Bacterial chromosomal loci move subdiffusively through a viscoelastic
+  cytoplasm.
+\newblock {\em Phys. Rev. Lett.}, 104:238102, Jun 2010.
+
+\bibitem{chemotaxis}
+George~H. Wadhams and Judith~P. Armitage.
+\newblock Making sense of it all: bacterial chemotaxis.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 5:1024 EP --, Dec 2004.
+\newblock Review Article.
+
+\bibitem{chasing}
+J-B Masson, M~Bailly Bechet, and M~Vergassola.
+\newblock Chasing information to search in random environments.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  42(43):434009, 2009.
+
+\bibitem{unknownEnv}
+Erol Gelenbe.
+\newblock Search in unknown random environments.
+\newblock {\em Phys. Rev. E}, 82:061112, Dec 2010.
+
+\bibitem{spdmonkey}
+Gabriel Ramos-Fernandez, Jose~Luis Mateos, Octavio Miramontes, Germinal Cocho,
+  Hernan Larralde, and Barbara Ayala-Orozco.
+\newblock Levy walk patterns in the foraging movements of spider monkeys
+  (ateles geoffroyi), 2003.
+
+\bibitem{deterministicAlgo}
+Paul Schmid‐Hempel.
+\newblock Stephens, d. w., and j. r. krebs, foraging theory, princeton
+  university press, princeton. 1986. 247 pp. \$ 14.50 (pbk.) \$ 40.00 (cloth).
+\newblock {\em Journal of Evolutionary Biology}, 1(1):86--88.
+
+\bibitem{wanderingAlbatross}
+Andrew~M. Edwards, Richard~A. Phillips, Nicholas~W. Watkins, Mervyn~P. Freeman,
+  Eugene~J. Murphy, Vsevolod Afanasyev, Sergey~V. Buldyrev, M.~G.~E. da~Luz,
+  E.~P. Raposo, H.~Eugene Stanley, and Gandhimohan~M. Viswanathan.
+\newblock Revisiting l{\'e}vy flight search patterns of wandering albatrosses,
+  bumblebees and deer.
+\newblock {\em Nature}, 449:1044 EP --, Oct 2007.
+
+\bibitem{foraging}
+Denis Boyer, Gabriel Ramos-Fern{\'a}ndez, Octavio Miramontes, Jos{\'e}~L
+  Mateos, Germinal Cocho, Hern{\'a}n Larralde, Humberto Ramos, and Fernando
+  Rojas.
+\newblock Scale-free foraging by primates emerges from their interaction with a
+  complex environment.
+\newblock {\em Proceedings of the Royal Society of London B: Biological
+  Sciences}, 273(1595):1743--1750, 2006.
+
+\bibitem{optimalsearch}
+F~Bartumeus and J~Catalan.
+\newblock Optimal search behavior and classic foraging theory.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  42(43):434002, 2009.
+
+\bibitem{levylikedetermine}
+D~Boyer, O~Miramontes, and H~Larralde.
+\newblock Lévy-like behaviour in deterministic models of intelligent agents
+  exploring heterogeneous environments.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  42(43):434015, 2009.
+
+\bibitem{masterEquation}
+Luca Giuggioli, Francisco~J Sevilla, and V~M Kenkre.
+\newblock A generalized master equation approach to modelling anomalous
+  transport in animal movement.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  42(43):434004, 2009.
+
+\bibitem{kineticsStochastics}
+Yasmine Meroz, Iddo Eliazar, and Joseph Klafter.
+\newblock Facilitated diffusion in a crowded environment: From kinetics to
+  stochastics.
+\newblock 42:434012, 10 2009.
+
+\bibitem{anomalousDiff}
+Shlomo Havlin and Daniel Ben-Avraham.
+\newblock Diffusion in disordered media.
+\newblock {\em Advances in Physics}, 36(6):695--798, 1987.
+
+\bibitem{hurst}
+Jozef Barunik and Ladislav Kristoufek.
+\newblock On hurst exponent estimation under heavy-tailed distributions.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  389(18):3844 -- 3855, 2010.
+
+\bibitem{superSub}
+I.~M. Sokolov.
+\newblock L\'evy flights from a continuous-time process.
+\newblock {\em Phys. Rev. E}, 63:011104, Dec 2000.
+
+\bibitem{physofforaging}
+Gandhimohan.~M. Viswanathan, Marcos G.~E. da~Luz, Ernesto~P. Raposo, and
+  H.~Eugene Stanley.
+\newblock {\em The Physics of Foraging: An Introduction to Random Searches and
+  Biological Encounters}.
+\newblock Cambridge University Press, 2011.
+
+\bibitem{selfgenpowerlaw}
+H.~Eduardo Roman and Markus Porto.
+\newblock Self-generated power-law tails in probability distributions.
+\newblock {\em Phys. Rev. E}, 63:036128, Feb 2001.
+
+\bibitem{criticalscaling}
+C.~Anteneodo and W.~A.~M. Morgado.
+\newblock Critical scaling in standard biased random walks.
+\newblock {\em Phys. Rev. Lett.}, 99:180602, Nov 2007.
+
+\bibitem{levyFW}
+Ralf Metzler and Joseph Klafter.
+\newblock The random walk's guide to anomalous diffusion: a fractional dynamics
+  approach.
+\newblock {\em Physics Reports}, 339(1):1 -- 77, 2000.
+
+\bibitem{levyFW1}
+Ralf Metzler and Joseph Klafter.
+\newblock The restaurant at the end of the random walk: recent developments in
+  the description of anomalous transport by fractional dynamics.
+\newblock {\em Journal of Physics A: Mathematical and General}, 37(31):R161,
+  2004.
+
+\bibitem{CTRW}
+Elliott~W. Montroll and George~H. Weiss.
+\newblock Random walks on lattices. ii.
+\newblock {\em Journal of Mathematical Physics}, 6(2):167--181, 1965.
+
+\bibitem{AsympSoltoCTRW}
+Michael~F. Shlesinger.
+\newblock Asymptotic solutions of continuous-time random walks.
+\newblock {\em Journal of Statistical Physics}, 10(5):421--434, May 1974.
+
+\bibitem{LFFH}
+G.M. Viswanathan, E.P. Raposo, and M.G.E. da~Luz.
+\newblock Lévy flights and superdiffusion in the context of biological
+  encounters and random searches.
+\newblock {\em Physics of Life Reviews}, 5(3):133 -- 150, 2008.
+
+\bibitem{fish}
+H.~Skoglund and B.~T. Barlaup.
+\newblock Feeding pattern and diet of first feeding brown trout fry under
+  natural conditions.
+\newblock {\em Journal of Fish Biology}, 68(2):507--521.
+
+\bibitem{fish1}
+SM~Sogard and BL~Olla.
+\newblock Food deprivation affects vertical distribution and activity of a
+  marine fish in a thermal gradient: Potential energy-conserving mechanisms.
+\newblock 133:43--55, 03 1996.
+
+\bibitem{insect}
+Khalid Lamine, Michel Lambin, and Claude Alauzet.
+\newblock Effect of starvation on the searching path of the predatory bug
+  deraeocoris lutescens.
+\newblock {\em BioControl}, 50(5):717--727, Oct 2005.
+
+\bibitem{marsupial}
+Pip Masters and Chris~R. Dickman.
+\newblock Population dynamics of <i>dasycercus blythi</i> (marsupialia:
+  Dasyuridae) in central australia: how does the mulgara persist?
+\newblock {\em Wildlife Research}, 39(5):419--428, 2012.
+
+\bibitem{butterfly}
+Andy Reynolds.
+\newblock Optimal scale-free searching strategies for the location of moving
+  targets: New insights on visually cued mate location behaviour in insects.
+\newblock 360:224--227, 12 2006.
+
+\bibitem{moth}
+AM~Reynolds, DR~Reynolds, AD~Smith, GP~Svensson, and C~Löfstedt.
+\newblock Appetitive flight patterns of male agrotis segetum moths over
+  landscape scales.
+\newblock {\em Journal of theoretical biology}, 245(1):141—149, March 2007.
+
+\bibitem{marine}
+Nicolas~E. Humphries, Nuno Queiroz, Jennifer R.~M. Dyer, Nicolas~G. Pade,
+  Michael~K. Musyl, Kurt~M. Schaefer, Daniel~W. Fuller, Juerg~M.
+  Brunnschweiler, Thomas~K. Doyle, Jonathan D.~R. Houghton, Graeme~C. Hays,
+  Catherine~S. Jones, Leslie~R. Noble, Victoria~J. Wearmouth, Emily~J.
+  Southall, and David~W. Sims.
+\newblock Environmental context explains l{\'e}vy and brownian movement
+  patterns of marine predators.
+\newblock {\em Nature}, 465:1066 EP --, Jun 2010.
+
+\bibitem{deer}
+Stefano Focardi, Paolo Montanaro, and Elena Pecchioli.
+\newblock Adaptive lévy walks in foraging fallow deer.
+\newblock {\em PLOS ONE}, 4(8):1--6, 08 2009.
+
+\bibitem{elephant}
+Xiaohua Dai, Graeme Shannon, Rob Slotow, Bruce Page, and Kevin~J. Duffy.
+\newblock Short-duration daytime movements of a cow herd of african elephants.
+\newblock {\em Journal of Mammalogy}, 88(1):151--157, 2007.
+
+\bibitem{dinoflagellates}
+Frederic Bartumeus, Francesc Peters, Salvador Pueyo, C{\`e}lia Marras{\'e}, and
+  Jordi Catalan.
+\newblock Helical l{\'e}vy walks: Adjusting searching statistics to resource
+  availability in microzooplankton.
+\newblock {\em Proc Natl Acad Sci U S A}, 100(22):12771--12775, Oct 2003.
+\newblock 10012771[PII].
+
+\bibitem{seabird}
+Frederic Bartumeus, Luca Giuggioli, Maite Louzao, Vincent Bretagnolle, Daniel
+  Oro, and Simon~A. Levin.
+\newblock Fishery discards impact on seabird movement patterns at regional
+  scales.
+\newblock {\em Current Biology}, 20(3):215--222, 2018/04/13 XXXX.
+
+\bibitem{phototaxis}
+H.~(Hansjochem) Autrum.
+\newblock {\em Comparative physiology and evolution of vision in
+  invertebrates}.
+\newblock Berlin ; New York : Springer-Verlag, 1981.
+\newblock Includes bibliographies and indexes.
+
+\bibitem{adaptLevy}
+Frederic Bartumeus, M.~G~E. da~Luz, G.~M. Viswanathan, and J.~Catalan.
+\newblock Animal search strategies: A quantitative random‐walk analysis.
+\newblock {\em Ecology}, 86(11):3078--3087.
+
+\bibitem{DNALevy}
+Michael~A. Lomholt, Tobias Ambj{\"o}rnsson, and Ralf Metzler.
+\newblock Optimal target search on a fast-folding polymer chain with volume
+  exchange.
+\newblock {\em Physical review letters}, 95 26:260603, 2005.
+
+\end{thebibliography}

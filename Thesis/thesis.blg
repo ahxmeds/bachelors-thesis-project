@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: unsrt.bst
+Database file #1: thesis.bib
+Warning--I'm ignoring dinoflagellates's extra "note" field
+--line 578 of file thesis.bib
+Warning--empty year in deterministicAlgo
+Warning--empty journal in kineticsStochastics
+Warning--empty year in fish
+Warning--empty journal in fish1
+Warning--empty journal in butterfly
+Warning--empty year in adaptLevy
+You've used 43 entries,
+            1791 wiz_defined-function locations,
+            745 strings with 11715 characters,
+and the built_in function-call counts, 10467 in all, are:
+= -- 873
+> -- 515
+< -- 0
++ -- 188
+- -- 145
+* -- 887
+:= -- 1711
+add.period$ -- 132
+call.type$ -- 43
+change.case$ -- 41
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 385
+empty$ -- 1008
+format.name$ -- 145
+if$ -- 2265
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 44
+newline$ -- 221
+num.names$ -- 43
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 871
+swap$ -- 40
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 87
+width$ -- 45
+write$ -- 472
+(There were 7 warnings)

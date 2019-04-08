@@ -1,0 +1,461 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	5
+<table>
+Table1	70	12	14/04/18 5:04 PM
+geometry	0	955	-1	-1	minimized	
+header	\mu = 1[X]	CDF   mu = 1[Y]	\mu = 1.5[X]	CDF   \mu = 1.5[Y]	\mu = 2[X]	CDF   \mu = 2[Y]	\mu = 2.5[X]	CDF   \mu = 2.5[Y]	\mu = 3[X]	CDF   \mu = 3[Y]	\mu = 4[X]	CDF   \mu = 4[Y]
+ColWidth	100	126	100	152	100	140	100	136	127	143	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0
+Comments													
+WindowLabel		2
+<data>
+0	8.26	0.0166666667	7.1	0.0166666667	11.68	0.0166666667	6.12	0.0166666667	5.4	0.0166666667	10.42	0.0166666667
+1	10.35	0.0333333333	7.56	0.0333333333	14.68	0.0333333333	10.44	0.0333333333	6.51	0.0333333333	11.07	0.0333333333
+2	10.56	0.05	7.65	0.05	16.94	0.05	10.81	0.05	7.33	0.05	14.03	0.05
+3	10.62	0.0666666667	9.88	0.0666666667	20.47	0.0666666667	11.11	0.0666666667	9.36	0.0666666667	15.84	0.0666666667
+4	11.95	0.0833333333	10.08	0.0833333333	25.35	0.0833333333	11.63	0.0833333333	9.53	0.0833333333	16.76	0.0833333333
+5	16.4	0.1	10.67	0.1	30.25	0.1	12.92	0.1	14.11	0.1	19.26	0.1
+6	20.23	0.1166666667	10.76	0.1166666667	30.73	0.1166666667	14.29	0.1166666667	16.98	0.1166666667	20.42	0.1166666667
+7	26.62	0.1333333333	11.68	0.1333333333	31.01	0.1333333333	14.76	0.1333333333	17.06	0.1333333333	20.93	0.1333333333
+8	26.69	0.15	11.72	0.15	33.53	0.15	15.41	0.15	18.27	0.15	21.3	0.15
+9	27.8	0.1666666667	14.57	0.1666666667	34.99	0.1666666667	17.64	0.1666666667	18.84	0.1666666667	23.12	0.1666666667
+10	31.46	0.1833333333	15.54	0.1833333333	35.64	0.1833333333	18.56	0.1833333333	20.08	0.1833333333	24.36	0.1833333333
+11	32.54	0.2	23.87	0.2	36.07	0.2	18.89	0.2	20.18	0.2	25.18	0.2
+12	33.76	0.2166666667	24.84	0.2166666667	36.85	0.2166666667	19.16	0.2166666667	21.2	0.2166666667	30.42	0.2166666667
+13	36.98	0.2333333333	27.08	0.2333333333	39.22	0.2333333333	22.47	0.2333333333	21.31	0.2333333333	30.47	0.2333333333
+14	37.23	0.25	28.04	0.25	40.39	0.25	22.66	0.25	22.36	0.25	33.04	0.25
+15	37.99	0.2666666667	29.58	0.2666666667	40.69	0.2666666667	23.95	0.2666666667	23.42	0.2666666667	34.61	0.2666666667
+16	38.97	0.2833333333	29.69	0.2833333333	42.64	0.2833333333	25.05	0.2833333333	24.55	0.2833333333	37.34	0.2833333333
+17	39.81	0.3	33.45	0.3	45.28	0.3	25.88	0.3	25.23	0.3	38.14	0.3
+18	41.54	0.3166666667	38.3	0.3166666667	45.83	0.3166666667	26.01	0.3166666667	27.32	0.3166666667	39.36	0.3166666667
+19	42.74	0.3333333333	38.37	0.3333333333	47.95	0.3333333333	26.1	0.3333333333	29.27	0.3333333333	42.2	0.3333333333
+20	44.01	0.35	41.96	0.35	53.86	0.35	26.54	0.35	29.59	0.35	43.85	0.35
+21	47.39	0.3666666667	45.39	0.3666666667	58.11	0.3666666667	28.03	0.3666666667	30.22	0.3666666667	46.48	0.3666666667
+22	49.49	0.3833333333	50.68	0.3833333333	58.8	0.3833333333	28.75	0.3833333333	33.48	0.3833333333	46.57	0.3833333333
+23	51.94	0.4	51.75	0.4	62.05	0.4	30.52	0.4	36.03	0.4	52.24	0.4
+24	55.2	0.4166666667	52.55	0.4166666667	62.88	0.4166666667	30.77	0.4166666667	38.01	0.4166666667	53.5	0.4166666667
+25	59.61	0.4333333333	56.4	0.4333333333	68.44	0.4333333333	31.07	0.4333333333	38.17	0.4333333333	54.33	0.4333333333
+26	65.54	0.45	63.44	0.45	73.23	0.45	32.03	0.45	40.99	0.45	54.6	0.45
+27	74.89	0.4666666667	70.16	0.4666666667	73.31	0.4666666667	33.91	0.4666666667	43.44	0.4666666667	54.69	0.4666666667
+28	79.24	0.4833333333	71.84	0.4833333333	82.3	0.4833333333	34.3	0.4833333333	43.95	0.4833333333	54.95	0.4833333333
+29	79.45	0.5	72.44	0.5	84.94	0.5	36.77	0.5	45.17	0.5	55.77	0.5
+30	85.16	0.5166666667	73	0.5166666667	89.49	0.5166666667	38.26	0.5166666667	46.13	0.5166666667	57.66	0.5166666667
+31	88.65	0.5333333333	73.29	0.5333333333	90.96	0.5333333333	39	0.5333333333	46.19	0.5333333333	58.86	0.5333333333
+32	93	0.55	79.37	0.55	93.47	0.55	39.26	0.55	46.66	0.55	59.47	0.55
+33	93.37	0.5666666667	79.8	0.5666666667	95.39	0.5666666667	39.37	0.5666666667	47.03	0.5666666667	65.52	0.5666666667
+34	109.67	0.5833333333	80.9	0.5833333333	97.58	0.5833333333	40.42	0.5833333333	47.15	0.5833333333	67.25	0.5833333333
+35	121.82	0.6	86.76	0.6	99.31	0.6	42.56	0.6	48.5	0.6	68.14	0.6
+36	128.39	0.6166666667	89.75	0.6166666667	99.98	0.6166666667	48.02	0.6166666667	53.64	0.6166666667	70.28	0.6166666667
+37	131.32	0.6333333333	95.82	0.6333333333	100.63	0.6333333333	48.19	0.6333333333	55.35	0.6333333333	76.41	0.6333333333
+38	152.64	0.65	101.41	0.65	104.85	0.65	48.6	0.65	55.98	0.65	76.5	0.65
+39	161.66	0.6666666667	105.76	0.6666666667	105.19	0.6666666667	48.74	0.6666666667	57.33	0.6666666667	77.33	0.6666666667
+40	163.62	0.6833333333	112.27	0.6833333333	105.83	0.6833333333	53.71	0.6833333333	58.46	0.6833333333	79.06	0.6833333333
+41	172.7	0.7	114.89	0.7	107.37	0.7	54.42	0.7	62.95	0.7	79.1	0.7
+42	174.91	0.7166666667	120.36	0.7166666667	109.2	0.7166666667	55.55	0.7166666667	63.64	0.7166666667	79.52	0.7166666667
+43	208.24	0.7333333333	130.59	0.7333333333	114.12	0.7333333333	58.53	0.7333333333	63.71	0.7333333333	84.09	0.7333333333
+44	223.72	0.75	130.78	0.75	120.27	0.75	62.89	0.75	63.91	0.75	90.19	0.75
+45	226.4	0.7666666667	143.63	0.7666666667	125.04	0.7666666667	66.65	0.7666666667	65.26	0.7666666667	91.66	0.7666666667
+46	240.13	0.7833333333	148.42	0.7833333333	127.45	0.7833333333	67.9	0.7833333333	67.97	0.7833333333	95.63	0.7833333333
+47	254.71	0.8	149.35	0.8	143.24	0.8	74.26	0.8	69.07	0.8	115.5	0.8
+48	255.27	0.8166666667	151.72	0.8166666667	156.11	0.8166666667	77.52	0.8166666667	70.86	0.8166666667	117.1	0.8166666667
+49	269.38	0.8333333333	154.57	0.8333333333	156.8	0.8333333333	78.99	0.8333333333	71.4	0.8333333333	123.38	0.8333333333
+50	281.37	0.85	156.73	0.85	171.69	0.85	81.38	0.85	73.12	0.85	124.25	0.85
+51	290.95	0.8666666667	158.82	0.8666666667	188.49	0.8666666667	88.03	0.8666666667	75.75	0.8666666667	136.31	0.8666666667
+52	296.54	0.8833333333	173.58	0.8833333333	191.01	0.8833333333	96.11	0.8833333333	82.17	0.8833333333	142.85	0.8833333333
+53	299.04	0.9	182.89	0.9	194.46	0.9	102.15	0.9	91.57	0.9	155.51	0.9
+54	307.01	0.9166666667	219.82	0.9166666667	218.71	0.9166666667	120.97	0.9166666667	95.69	0.9166666667	163.53	0.9166666667
+55	320.69	0.9333333333	245.09	0.9333333333	231.29	0.9333333333	131.17	0.9333333333	100.29	0.9333333333	173.18	0.9333333333
+56	325.82	0.95	258.19	0.95	251.3	0.95	164.77	0.95	101.22	0.95	175.87	0.95
+57	460.77	0.9666666667	295.92	0.9666666667	261.08	0.9666666667	206.8	0.9666666667	113.3	0.9666666667	226.72	0.9666666667
+58	600	0.9833333333	426.9	0.9833333333	367.42	0.9833333333	230.15	0.9833333333	130.47	0.9833333333	266.21	0.9833333333
+59	600	1	487.27	1	424.28	1	448.12	1	301.14	1	500	1
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	14/04/18 5:14 PM
+geometry	0	0	510	430	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	492	368
+<PageGeometry>0.00996016	0.013089	0.98008	0.963351</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Search Time (s)	CDF		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	18	75	0	0	0
+ScaleFont0	Ubuntu	15	75	0	0	0
+ScaleFont1	Ubuntu	15	75	0	0	0
+ScaleFont2	Ubuntu	15	75	0	0	0
+ScaleFont3	Ubuntu	15	75	0	0	0
+AxisFont0	Ubuntu	15	50	0	0	0
+AxisFont1	Ubuntu	15	50	0	0	0
+AxisFont2	Ubuntu	15	50	0	0	0
+AxisFont3	Ubuntu	15	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_\mu = 2.5	Table1_CDF   \mu = 2.5	2	1	#000000	0	1	11	1	#000000	#000000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 2	Table1_CDF   \mu = 2	2	1	#ff0000	0	1	11	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1.5	Table1_CDF   \mu = 1.5	2	1	#00ff00	0	1	11	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1	Table1_CDF   mu = 1	2	1	#0000ff	0	1	11	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	59	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	700	0	8	5	0	0
+scale	3	0	700	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>514.97227356747</x>
+<y>0.45964432284542</y>
+<right>212.784090909091</right>
+<bottom>1.032</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) μ = 2.5
+\l(2) μ = 2.0
+\l(3) μ = 1.5
+\l(4) μ = 1.0
+</Text>
+<Font>Ubuntu	15	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	17/04/18 4:25 PM
+geometry	583	13	527	467	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	509	404
+<PageGeometry>0.00963391	0.0119332	0.980732	0.9642</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Search Time (s)	CDF		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_\mu = 3	Table1_CDF   \mu = 3	2	1	#000000	0	1	11	1	#000000	#000000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 2.5	Table1_CDF   \mu = 2.5	2	1	#ff0000	0	1	11	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 2	Table1_CDF   \mu = 2	2	1	#00ff00	0	1	11	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1.5	Table1_CDF   \mu = 1.5	2	1	#0000ff	0	1	11	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1	Table1_CDF   mu = 1	2	1	#00ffff	0	1	11	5	#ff80ff	#ff00ff	0	#000000	14	1	2	0	0	59	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	700	0	8	5	0	0
+scale	3	0	700	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>444.67036352434</x>
+<y>0.50232558139535</y>
+<right>202.139037433155</right>
+<bottom>1.048</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) μ = 3.0
+\l(2) μ = 2.5
+\l(3) μ = 2.0
+\l(4) μ = 1.5
+\l(5) μ = 1.0
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph3	1	1	17/04/18 7:52 PM
+geometry	1155	18	527	467	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	509	404
+<PageGeometry>0.00963391	0.0119332	0.980732	0.9642</PageGeometry>
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_\mu = 4	Table1_CDF   \mu = 4	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 3	Table1_CDF   \mu = 3	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 2.5	Table1_CDF   \mu = 2.5	2	1	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 2	Table1_CDF   \mu = 2	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1.5	Table1_CDF   \mu = 1.5	2	1	#00ffff	0	1	7	5	#00ffff	#00ffff	0	#000000	14	1	2	0	0	59	1
+curve	Table1_\mu = 1	Table1_CDF   mu = 1	2	1	#ff00ff	0	1	7	6	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	59	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	700	0	8	5	0	0
+scale	3	0	700	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>319.29824561404</x>
+<y>0.59799331103679</y>
+<right>202.139037433155</right>
+<bottom>1.048</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+\l(6)%(6)
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph4	1	1	17/04/18 7:53 PM
+geometry	maximized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	18	11	1825	925
+<PageGeometry>0.00967222	0.0114703	0.980656	0.964546</PageGeometry>
+PlotTitle	 Power-law distributed Δt	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Search Time (s)	CDF		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	30	75	1	0	0
+ScaleFont0	Ubuntu	25	75	0	0	0
+ScaleFont1	Ubuntu	25	75	0	0	0
+ScaleFont2	Ubuntu	25	75	0	0	0
+ScaleFont3	Ubuntu	25	75	0	0	0
+AxisFont0	Ubuntu	25	50	0	0	0
+AxisFont1	Ubuntu	25	50	0	0	0
+AxisFont2	Ubuntu	25	50	0	0	0
+AxisFont3	Ubuntu	25	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_\mu = 4	Table1_CDF   \mu = 4	2	1	#000000	0	1	13	1	#000000	#000000	0	#000000	14	1	2	0	0	69	1
+curve	Table1_\mu = 3	Table1_CDF   \mu = 3	2	1	#ff0000	0	1	13	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	69	1
+curve	Table1_\mu = 2.5	Table1_CDF   \mu = 2.5	2	1	#00ff00	0	1	13	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	69	1
+curve	Table1_\mu = 2	Table1_CDF   \mu = 2	2	1	#0000ff	0	1	13	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	69	1
+curve	Table1_\mu = 1.5	Table1_CDF   \mu = 1.5	2	1	#00ffff	0	1	13	5	#00ffff	#00ffff	0	#000000	14	1	2	0	0	69	1
+curve	Table1_\mu = 1	Table1_CDF   mu = 1	2	1	#ff00ff	0	1	13	6	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	69	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	700	0	8	5	0	0
+scale	3	0	700	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>567.94081381011</x>
+<y>0.60493150684932</y>
+<right>202.139037433155</right>
+<bottom>1.048</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) μ = 4.0
+\l(2) μ = 3.0
+\l(3) μ = 2.5
+\l(4) μ = 2.0
+\l(5) μ = 1.5
+\l(6) μ = 1.0
+</Text>
+<Font>Ubuntu	32	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
